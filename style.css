@@ -1,0 +1,22 @@
+body{
+  background-color: green
+}
+h1 {
+  text-align: center;
+font-family: 'Roboto', sans-serif;
+}
+p {
+  font-family: arial;
+  font-size: 21px;
+}
+<a href="contract.html">Contract Link</a>
+a{
+  text-decoration: underline;
+}
+a{color: blue;}
+a:hover {
+  background-color: yellow;
+}
+a:active{
+  color:red;
+}
